@@ -16,8 +16,18 @@ Here are some ideas to get you started:
 -->
 I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about Technology and Online Education.
 
+#### 📫 How to reach me
+
+- [Twitter](https://twitter.com/JulioForce)
+- [Facebook](https://www.facebook.com/juliowebdev)
+
 #### My rules of life
 
 - 😃 Try to be a better person everyday.
 - 📚 Never stop learning.
 - 🧙‍♂️ I'm still not the final version of me.
+
+### My style of work with HTML & CSS
+
+- BEM
+- SASS

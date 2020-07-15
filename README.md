@@ -18,6 +18,6 @@ I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about
 
 #### My rules of life
 
-😃 Try to be a better person everyday.
-📚 Never stop learning.
-🧙‍♂️ I'm still not the final version of me.
+- 😃 Try to be a better person everyday.
+- 📚 Never stop learning.
+- 🧙‍♂️ I'm still not the final version of me.

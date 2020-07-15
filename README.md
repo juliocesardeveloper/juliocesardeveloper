@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about Technology and Online Education.
+
+#### My rules of life
+
+😃 Try to be a better person everyday.
+📚 Never stop learning.
+🧙‍♂️ I'm still not the final version of me.

@@ -18,8 +18,8 @@ I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about
 
 #### 📫 How to reach me
 
-- [Twitter](https://twitter.com/JulioForce)
-- [Facebook](https://www.facebook.com/juliowebdev)
+- [Twitter](https://twitter.com/JulioForce)             - [Facebook](https://www.facebook.com/juliowebdev)
+
 
 #### My rules of life
 

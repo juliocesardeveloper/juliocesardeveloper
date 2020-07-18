@@ -27,7 +27,7 @@ I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about
 - 📚 Never stop learning.
 - 🧙‍♂️ I'm still not the final version of me.
 
-### My style of work with HTML & CSS
-
-- BEM
-- SASS
+### My style of work
+#### HTML & CSS
+      - BEM
+      - SASS

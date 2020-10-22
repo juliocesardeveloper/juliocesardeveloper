@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Julio César, Frontend Developer at Platzi Master Program | Passionate about Technology and Online Education.
+Frontend Developer at Platzi Master Program | Passionate about Technology and Online Education.
 
 #### 📫 How to reach me
 
+- [LinkedIn](https://www.linkedin.com/in/julio-cesar-arroyave/)
 - [Twitter](https://twitter.com/JulioForce)
 - [Facebook](https://www.facebook.com/juliowebdev)
 

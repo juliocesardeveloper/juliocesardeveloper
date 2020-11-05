@@ -19,8 +19,6 @@ Frontend Developer at Platzi Master Program | Passionate about Technology and On
 #### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/julio-cesar-arroyave/)
-- [Twitter](https://twitter.com/JulioForce)
-- [Facebook](https://www.facebook.com/juliowebdev)
 
 #### My rules of life
 

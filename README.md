@@ -22,9 +22,9 @@ Frontend Developer at [Platzi Master](https://platzi.com/blog/conoce-que-es-plat
 
 #### My rules of life
 
-- 😃 Try to be a better person everyday.
-- 📚 Never stop learning.
-- 🧙‍♂️ I'm still not the final version of me.
+> - 😃 Try to be a better person everyday.
+> - 📚 Never stop learning.
+> - 🧙‍♂️ I'm still not the final version of me.
 
 ### My style of work
 

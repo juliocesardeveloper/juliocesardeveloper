@@ -28,11 +28,11 @@ Frontend Developer at [Platzi Master](https://platzi.com/blog/conoce-que-es-plat
 
 ### My style of work
 
-#### Preferred Language
-      - JavaScript
+#### Preferred Language             #### Libraries / frameworks
+      - JavaScript                        - ReactJS
       
-#### Libraries / frameworks
-      - ReactJS
+
+      
 
 #### HTML & CSS
       - BEM

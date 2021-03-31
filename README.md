@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Frontend Developer at [Platzi Master](https://platzi.com/blog/conoce-que-es-platzi-master/) a Program of [Platzi](https://platzi.com/) | Passionate about Technology and Online Education.
+Frontend Developer at [Platzi Master](https://platzi.com/blog/conoce-que-es-platzi-master/), a personalized Program of [Platzi](https://platzi.com/) | Passionate about Technology and Online Education.
 
 #### 📫 How to reach me
 

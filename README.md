@@ -37,3 +37,7 @@ Frontend Developer at [ItGlobers](https://itglobers.com/) | Passionate about Tec
 #### HTML & CSS
       - BEM
       - SASS
+      
+#### Other
+      - VTEX
+

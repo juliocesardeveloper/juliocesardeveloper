@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Frontend Developer at [ItGlobers](https://itglobers.com/) | Passionate about Technology and Online Education.
+Frontend Developer | Passionate about Technology and Online Education.
 
 #### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-arroyave/) 
